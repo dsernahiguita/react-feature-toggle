@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 
 // Prevent context varaibles
 // https://github.com/rackt/react-router/issues/484#issuecomment-131066254

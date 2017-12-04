@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 
 const ToggleComponent = (def, ...toggled) => class ToggleComponent extends Component {
   constructor(...args) {
